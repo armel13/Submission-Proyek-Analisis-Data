@@ -39,22 +39,10 @@ Analisis dilakukan menggunakan Python (Pandas, NumPy, Matplotlib, Seaborn) dan h
 
 ---
 
-## Cara Menjalankan Project (End-to-End)
 
-### 1. Download atau Clone Repository
 
-Jika menggunakan Git:
 
-```
-git clone <repository-url>
-cd <nama-folder-project>
-```
-
-Atau download file ZIP dan ekstrak ke folder lokal.
-
----
-
-### 2. Buat Virtual Environment (Opsional)
+### 1. Buat Virtual Environment (Opsional)
 
 ```
 python -m venv venv
@@ -74,7 +62,7 @@ source venv/bin/activate
 
 ---
 
-### 3. Install Dependencies
+### 2. Install Dependencies
 
 Jika tersedia file requirements.txt:
 
@@ -90,7 +78,7 @@ pip install pandas numpy matplotlib seaborn streamlit
 
 ---
 
-### 4. Menjalankan Notebook (Opsional)
+### 3. Menjalankan Notebook (Opsional)
 
 Untuk melihat proses analisis data:
 
@@ -105,7 +93,7 @@ Proyek_Analisis_Data.ipynb
 
 ---
 
-### 5. Menjalankan Dashboard Streamlit
+### 4. Menjalankan Dashboard Streamlit
 
 Pastikan berada di folder utama project, lalu jalankan:
 
