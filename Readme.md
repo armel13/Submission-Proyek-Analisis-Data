@@ -11,7 +11,6 @@ Analisis dilakukan menggunakan Python (Pandas, NumPy, Matplotlib, Seaborn) dan h
 ## Struktur Project
 
 ```
-.
 ├── dashboard.py
 ├── Proyek_Analisis_Data.ipynb
 ├── data/
