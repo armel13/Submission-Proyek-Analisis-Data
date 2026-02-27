@@ -31,7 +31,7 @@ Analisis dilakukan menggunakan Python (Pandas, NumPy, Matplotlib, Seaborn) dan h
 
 ## Tools dan Library
 
-- Python 3.x  
+- Python 
 - Pandas  
 - NumPy  
 - Matplotlib  
